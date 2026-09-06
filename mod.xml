@@ -1,7 +1,7 @@
 <Mod
 	name="Pacifist run status"
 	description="
-No more getting to the next mountain to check if you’re still a pacifist — get notified right away!
+No more getting to the next mountain to check if you are still a pacifist — get notified right away!
 "
 	request_no_api_restrictions="0" 
 > 

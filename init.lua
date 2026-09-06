@@ -6,7 +6,6 @@ local pacifist_run_is_failed_frame, pacifist_run_is_failed_last_frame
 local gui
 
 function OnPlayerSpawned(player_entity)
-    GamePrint("Pasifist")
 end
 
 function OnModInit()

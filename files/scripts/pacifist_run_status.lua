@@ -15,6 +15,5 @@ function PacifistRunStatusTest(player_entity)
 
         GamePlaySound( "data/audio/Desktop/event_cues.bank", "event_cues/orb_distant_monster/create", pos_x, pos_y )
         
-        GamePrint("done")
     end
 end
